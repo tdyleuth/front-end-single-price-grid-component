@@ -16,7 +16,7 @@ body {
     max-width: 1440px;
     font-size: 16px;
     margin: 25%;
-    box-shadow: 2px 2px 12px rgba(181, 181, 215, 0.2);
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
 }
 
 .community-section {
@@ -109,7 +109,7 @@ body {
     margin: 1rem 0 0rem 0;
     outline: none;
     border: none;
-    box-shadow: 2px 2px 12px rgba(181, 181, 215, 0.2);
+    box-shadow: 2px 10px 12px rgba(0, 0, 0, 0.2);
 }
 
 #sign-up-btn:hover {
@@ -214,5 +214,9 @@ body {
         font-weight: 50;
         padding-bottom: 0;
         width: 70%;
+    }
+
+    .attribution {
+        margin-bottom: 1rem;
     }
 }
